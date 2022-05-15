@@ -1,0 +1,13 @@
+Comandos Git:
+
+cd <dir>
+git clone <url>
+git status
+git config user.name <nombre de usuario>
+git config user.mail <dirección de correo registrada>
+git config -l
+git log
+git add . (para todos los archivos o el nombre de cada uno con la extensión separados por un espacio)
+git commit -m "Comentario"
+git push origin main
+git pull origin main
